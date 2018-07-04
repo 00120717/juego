@@ -7,7 +7,7 @@ package juego;
 
 /**
  *
- * @author Zonia Gonzalez
+ * @author Marvin Ramirez
  */
 public class Juego {
 
